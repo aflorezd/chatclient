@@ -7,6 +7,7 @@ describe('HomePage', () => {
   let component: HomePage;
   let fixture: ComponentFixture<HomePage>;
 
+
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [ HomePage ],
